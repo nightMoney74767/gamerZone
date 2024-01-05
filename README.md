@@ -1,4 +1,4 @@
-<img src="https://git.fse.network/2003943/co6008/-/raw/main/LogoPNG.png" alt="Logo" width=500/>
+<img src="https://github.com/nightMoney74767/gamerZone/blob/main/LogoPNG.png" alt="Logo" width=500/>
 
 # GamerZone++ (Innovation Project)
 This project contains the files for a game server written in C++ and Boost
