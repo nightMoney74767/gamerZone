@@ -3,7 +3,7 @@
 # GamerZone++
 This project contains the files for a game server written in C++ and Boost. To run this on your device, please follow these instructions:
 <ol>
-    <li>download the code from GitHub (link above)</li>
+    <li>download the code from this repository</li>
     <li>for Windows:</li>
     <ul>
       <li>download and run the installer for <a href="https://visualstudio.microsoft.com/downloads/">Visual Studio</a>. The community edition is available for free. When asked, select the c++ workload and click install</li>
