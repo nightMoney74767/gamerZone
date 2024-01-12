@@ -1,7 +1,7 @@
 <img src="https://github.com/nightMoney74767/gamerZone/blob/main/LogoPNG.png" alt="Logo" width=500/>
 
 # GamerZone++
-This project contains the files for a game server written in C++ and Boost. To run this on your device, please follow these instructions:
+This project contains the files for a game server written in C++ and Boost. The code was written as part of a dissertation at University of Chester. To run this on your device, please follow these instructions:
 <ol>
     <li>download the code from this repository</li>
     <li>for Windows:</li>
